@@ -1,6 +1,6 @@
 # Coding with Python
 
-Welcome to the Course "Coding with Python" repository! This repository contains all the materials and resources for the course.
+Welcome to ARC training course "Coding with Python" repository! This repository contains all the materials and resources for the course.
 
 ## Organisation
 
@@ -20,7 +20,7 @@ There are three possibilities to get the data:
 
    `git clone https://github.com/DurhamARC-Training/Intermediate-Python.git`
 
-## Getting Started for Teaching
+## Getting started for teaching
 
 To get started with teaching the course, follow these steps:
 
