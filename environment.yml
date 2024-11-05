@@ -1,0 +1,10 @@
+name: intermediate_python
+channels:
+- conda-forge
+dependencies:
+- jupyter
+- jupyterlab
+- jupyterlab-deck
+- python
+- jupyterlab_rise
+- jupyter_contrib_nbextensions
